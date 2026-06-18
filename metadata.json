@@ -1,0 +1,6 @@
+{
+  "name": "Pickleball Court Reservation System",
+  "description": "A comprehensive booking and court management system for Pickleball clubs, supporting court scheduling, slot reservation, and online payment settlement for players and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
